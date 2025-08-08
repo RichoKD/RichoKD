@@ -16,7 +16,6 @@ I'm a backend-focused software engineer passionate about decentralized technolog
 
 ## 📫 Reach Me
 
-- GitHub: [@RichoKD](https://github.com/RichoKD)
 - Twitter: [@RicoKD_z2](https://x.com/RicoKD_z2)
 
 ---
